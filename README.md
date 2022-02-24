@@ -1,2 +1,2 @@
-# ml_course_course_2_data_exploration
+# ml_course_2_data_exploration
 Репозиторий для выполнения и проверки задания по ml (2_data_exploration)
